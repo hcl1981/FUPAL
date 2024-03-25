@@ -1,0 +1,1 @@
+mkspiffs -c ./data/ -p 256 -b 8192 -s 3125248 ./data.bin
